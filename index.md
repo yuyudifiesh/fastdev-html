@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Fastdev For HTML"
+  name: "Fastdev For JS"
   text: "快速可复制的 JS 代码"
   tagline: 
   actions:
