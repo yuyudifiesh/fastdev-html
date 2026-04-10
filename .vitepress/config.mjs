@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/fastdev-html/',
-  title: "Fastdev For HTML",
+  title: "Fastdev For JS",
   description: "快速可复制的 JS 代码",
   themeConfig: {
     nav: [
