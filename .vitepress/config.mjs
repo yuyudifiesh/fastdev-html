@@ -9,7 +9,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
     ],
 
-    outline: { level: [2, 3], label: '目录' },
+    outline: { level: [2, 4], label: '目录' },
     langMenuLabel: '切换语言',
     darkModeSwitchLabel: '主题',
     lightModeSwitchTitle: '切换到浅色模式',
@@ -27,6 +27,14 @@ export default defineConfig({
           { text: '防抖', link: '/docs/debounce' },
           { text: '节流', link: '/docs/throttle' },
           { text: '处理 URL', link: '/docs/url' },
+          { text: '字符串', link: '/docs/string' },
+          { text: '数字与数学', link: '/docs/math' },
+          { text: '日期', link: '/docs/date' },
+          { text: '对象', link: '/docs/object' },
+          { text: '函数', link: '/docs/function' },
+          { text: 'Web API', link: '/docs/webapi' },
+          { text: '正则', link: '/docs/regular' },
+          { text: 'ES6+', link: '/docs/es6' },
         ]
       }
     ],
